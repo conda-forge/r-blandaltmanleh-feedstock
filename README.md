@@ -1,11 +1,11 @@
-About r-blandaltmanleh
-======================
+About r-blandaltmanleh-feedstock
+================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-blandaltmanleh-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=BlandAltmanLeh
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-blandaltmanleh-feedstock/blob/main/LICENSE.txt)
 
 Summary: Bland-Altman Plots using either base graphics or ggplot2, augmented with confidence intervals, with detailed return values and a sunflowerplot option for data with ties.
 
